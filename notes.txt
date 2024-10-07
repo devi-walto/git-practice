@@ -1,0 +1,13 @@
+# Notes on GitHub
+
+# Initialize the repository
+git init              # Initialize the repo
+
+# Check the status of the repository
+git status            # Tells you about the changes (i.e. the status)
+
+# Stage changes for the next commit
+git add .             # Stage all the changed files
+
+# Making a commit
+git commit -m "a message"  # Commit the staged changes with a message
