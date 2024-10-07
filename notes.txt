@@ -11,3 +11,7 @@ git add .             # Stage all the changed files
 
 # Making a commit
 git commit -m "a message"  # Commit the staged changes with a message
+
+# Push new local commits to GitHub
+git push origin main  # Push the commits to the main branch on GitHub
+#git push origin main
